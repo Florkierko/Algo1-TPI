@@ -8,134 +8,184 @@
 		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\lib\googletest-master\;CMake Files\lib\googletest-master\googlemock\;CMake Files\lib\googletest-master\googlemock\cmake\;CMake Files\lib\googletest-master\googletest\;CMake Files\lib\googletest-master\googletest\cmake\;CMake Files\cmake\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install/strip">
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install/local">
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="juegoDeLaVidaTest">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/juegoDeLaVidaTest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 juegoDeLaVidaTest"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="juegoDeLaVidaTest/fast">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/juegoDeLaVidaTest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 juegoDeLaVidaTest/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install">
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="list_install_components">
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="juegoDeLaVida">
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVida" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 juegoDeLaVida"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="juegoDeLaVida/fast">
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVida" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 juegoDeLaVida/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="juegoDeLaVidaTest">
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVidaTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 juegoDeLaVidaTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="juegoDeLaVidaTest/fast">
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVidaTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 juegoDeLaVidaTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock_main">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock"/>
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -146,23 +196,23 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock_main/fast">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock"/>
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -173,23 +223,23 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/libgmockd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock"/>
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -200,23 +250,23 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock/fast">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/libgmockd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock"/>
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -227,21 +277,21 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest"/>
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -252,21 +302,21 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main/fast">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest"/>
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -277,21 +327,21 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtestd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest"/>
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -302,21 +352,21 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest/fast">
-				<Option output="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtestd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest"/>
+				<Option output="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
-					<Add directory="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include"/>
+					<Add directory="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -327,104 +377,122 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP\ Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/definiciones.h">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h">
+			<Option target="juegoDeLaVida"/>
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/src/gmock-all.cc">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/es.cpp">
+			<Option target="juegoDeLaVida"/>
+		</Unit>
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/es.h">
+			<Option target="juegoDeLaVida"/>
+		</Unit>
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVida.cpp">
+			<Option target="juegoDeLaVida"/>
+		</Unit>
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/src/gmock-all.cc">
 			<Option target="gmock_main"/>
 			<Option target="gmock"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/src/gmock_main.cc">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/src/gmock_main.cc">
 			<Option target="gmock_main"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/src/gtest-all.cc">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/src/gtest-all.cc">
 			<Option target="gmock_main"/>
 			<Option target="gmock"/>
 			<Option target="gtest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/src/gtest_main.cc">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/src/gtest_main.cc">
 			<Option target="gtest_main"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/main.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/main.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/solucion.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/maxiopt.cpp">
+			<Option target="juegoDeLaVida"/>
+		</Unit>
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/maxiopt.h">
+			<Option target="juegoDeLaVida"/>
+		</Unit>
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.cpp">
+			<Option target="juegoDeLaVida"/>
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/solucion.h">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h">
+			<Option target="juegoDeLaVida"/>
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/densidadPoblacionTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/densidadPoblacionTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/enCrecimientoTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/enCrecimientoTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/esPeriodicoTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/esPeriodicoTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/esValidoTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/esValidoTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/evolucionDePosicionTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/evolucionDePosicionTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/evolucionMultipleTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/evolucionMultipleTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/evolucionToroideTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/evolucionToroideTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/fusionarTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/fusionarTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/posicionesVivasTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/posicionesVivasTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/primosLejanosTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/primosLejanosTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/seleccionNaturalTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/seleccionNaturalTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/tests/vistaTrasladadaTEST.cpp">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/vistaTrasladadaTEST.cpp">
 			<Option target="juegoDeLaVidaTest"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/CMakeLists.txt">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/CMakeLists.txt">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lib\googletest-master\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/CMakeLists.txt">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lib\googletest-master\googlemock\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/cmake/gmock.pc.in">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/cmake/gmock.pc.in">
 			<Option virtualFolder="CMake Files\lib\googletest-master\googlemock\cmake\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/cmake/gmock_main.pc.in">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/cmake/gmock_main.pc.in">
 			<Option virtualFolder="CMake Files\lib\googletest-master\googlemock\cmake\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/CMakeLists.txt">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\lib\googletest-master\googletest\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/cmake/gtest.pc.in">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/cmake/gtest.pc.in">
 			<Option virtualFolder="CMake Files\lib\googletest-master\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/cmake/gtest_main.pc.in">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/cmake/gtest_main.pc.in">
 			<Option virtualFolder="CMake Files\lib\googletest-master\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/cmake/internal_utils.cmake">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\lib\googletest-master\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake/FindSDL2.cmake">
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake/FindSDL2.cmake">
 			<Option virtualFolder="CMake Files\cmake\"/>
 		</Unit>
 	</Project>

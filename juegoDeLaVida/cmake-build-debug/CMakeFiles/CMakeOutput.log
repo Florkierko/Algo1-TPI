@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_fd670/fast"
-/usr/bin/make -f CMakeFiles/cmTC_fd670.dir/build.make CMakeFiles/cmTC_fd670.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_fd670.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_fd670.dir/testCCompiler.c.o   -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c"
-Linking C executable cmTC_fd670
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fd670.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_fd670.dir/testCCompiler.c.o  -o cmTC_fd670 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_07b72/fast"
+/usr/bin/make -f CMakeFiles/cmTC_07b72.dir/build.make CMakeFiles/cmTC_07b72.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_07b72.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_07b72.dir/testCCompiler.c.o   -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_07b72
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_07b72.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_07b72.dir/testCCompiler.c.o  -o cmTC_07b72 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_5f3b3/fast"
-/usr/bin/make -f CMakeFiles/cmTC_5f3b3.dir/build.make CMakeFiles/cmTC_5f3b3.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o   -c /snap/clion/44/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_5f3b3
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5f3b3.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o  -o cmTC_5f3b3 
+Run Build Command:"/usr/bin/make" "cmTC_601a5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_601a5.dir/build.make CMakeFiles/cmTC_601a5.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o   -c /snap/clion/44/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_601a5
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_601a5.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o  -o cmTC_601a5 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -61,24 +61,24 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5f3b3' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccvM0YOz.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_5f3b3 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5f3b3' '-mtune=generic' '-march=x86-64'
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_601a5' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccwKM9VB.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_601a5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_601a5' '-mtune=generic' '-march=x86-64'
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_5f3b3/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_5f3b3.dir/build.make CMakeFiles/cmTC_5f3b3.dir/build]
-  ignore line: [make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o   -c /snap/clion/44/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_5f3b3]
-  ignore line: [/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5f3b3.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o  -o cmTC_5f3b3 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_601a5/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_601a5.dir/build.make CMakeFiles/cmTC_601a5.dir/build]
+  ignore line: [make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o   -c /snap/clion/44/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_601a5]
+  ignore line: [/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_601a5.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o  -o cmTC_601a5 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -90,13 +90,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5f3b3' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccvM0YOz.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_5f3b3 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_601a5' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccwKM9VB.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_601a5 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccvM0YOz.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccwKM9VB.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -115,7 +115,7 @@ Parsed C implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_5f3b3] ==> ignore
+    arg [cmTC_601a5] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -127,7 +127,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_5f3b3.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_601a5.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -157,17 +157,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_26c85/fast"
-/usr/bin/make -f CMakeFiles/cmTC_26c85.dir/build.make CMakeFiles/cmTC_26c85.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_26c85.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_26c85.dir/feature_tests.c.o   -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_26c85
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_26c85.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_26c85.dir/feature_tests.c.o  -o cmTC_26c85 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_6a7bc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6a7bc.dir/build.make CMakeFiles/cmTC_6a7bc.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6a7bc.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_6a7bc.dir/feature_tests.c.o   -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_6a7bc
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6a7bc.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_6a7bc.dir/feature_tests.c.o  -o cmTC_6a7bc 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -177,17 +177,17 @@ make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacio
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_2877a/fast"
-/usr/bin/make -f CMakeFiles/cmTC_2877a.dir/build.make CMakeFiles/cmTC_2877a.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_2877a.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_2877a.dir/feature_tests.c.o   -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_2877a
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2877a.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_2877a.dir/feature_tests.c.o  -o cmTC_2877a 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_b9665/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b9665.dir/build.make CMakeFiles/cmTC_b9665.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b9665.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_b9665.dir/feature_tests.c.o   -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_b9665
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b9665.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_b9665.dir/feature_tests.c.o  -o cmTC_b9665 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -197,17 +197,17 @@ make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacio
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d210c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d210c.dir/build.make CMakeFiles/cmTC_d210c.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d210c.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_d210c.dir/feature_tests.c.o   -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_d210c
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d210c.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_d210c.dir/feature_tests.c.o  -o cmTC_d210c 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_053d2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_053d2.dir/build.make CMakeFiles/cmTC_053d2.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_053d2.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_053d2.dir/feature_tests.c.o   -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_053d2
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_053d2.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_053d2.dir/feature_tests.c.o  -o cmTC_053d2 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -215,30 +215,30 @@ make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacio
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b7a7a/fast"
-/usr/bin/make -f CMakeFiles/cmTC_b7a7a.dir/build.make CMakeFiles/cmTC_b7a7a.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_b7a7a.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_b7a7a.dir/testCXXCompiler.cxx.o -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
-Linking CXX executable cmTC_b7a7a
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7a7a.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_b7a7a.dir/testCXXCompiler.cxx.o  -o cmTC_b7a7a 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_f493b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f493b.dir/build.make CMakeFiles/cmTC_f493b.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f493b.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_f493b.dir/testCXXCompiler.cxx.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_f493b
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f493b.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_f493b.dir/testCXXCompiler.cxx.o  -o cmTC_f493b 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_38a0b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_38a0b.dir/build.make CMakeFiles/cmTC_38a0b.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o -c /snap/clion/44/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_38a0b
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_38a0b.dir/link.txt --verbose=1
-/usr/bin/c++      -v CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_38a0b 
+Run Build Command:"/usr/bin/make" "cmTC_06cdc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_06cdc.dir/build.make CMakeFiles/cmTC_06cdc.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o -c /snap/clion/44/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_06cdc
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06cdc.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_06cdc 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -250,24 +250,24 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_38a0b' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccIcbeky.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_38a0b /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_38a0b' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06cdc' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccC1PVm5.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_06cdc /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06cdc' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_38a0b/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_38a0b.dir/build.make CMakeFiles/cmTC_38a0b.dir/build]
-  ignore line: [make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o -c /snap/clion/44/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_38a0b]
-  ignore line: [/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_38a0b.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_38a0b ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_06cdc/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_06cdc.dir/build.make CMakeFiles/cmTC_06cdc.dir/build]
+  ignore line: [make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o -c /snap/clion/44/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_06cdc]
+  ignore line: [/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06cdc.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_06cdc ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -279,13 +279,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_38a0b' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccIcbeky.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_38a0b /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_06cdc' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccC1PVm5.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_06cdc /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccIcbeky.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccC1PVm5.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -304,7 +304,7 @@ Parsed CXX implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_38a0b] ==> ignore
+    arg [cmTC_06cdc] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -316,7 +316,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_38a0b.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_06cdc.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -342,17 +342,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e1133/fast"
-/usr/bin/make -f CMakeFiles/cmTC_e1133.dir/build.make CMakeFiles/cmTC_e1133.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_e1133.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_e1133.dir/feature_tests.cxx.o -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_e1133
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e1133.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_e1133.dir/feature_tests.cxx.o  -o cmTC_e1133 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_09a7c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_09a7c.dir/build.make CMakeFiles/cmTC_09a7c.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_09a7c.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_09a7c.dir/feature_tests.cxx.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_09a7c
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_09a7c.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_09a7c.dir/feature_tests.cxx.o  -o cmTC_09a7c 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -415,17 +415,17 @@ make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacio
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_85446/fast"
-/usr/bin/make -f CMakeFiles/cmTC_85446.dir/build.make CMakeFiles/cmTC_85446.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_85446.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_85446.dir/feature_tests.cxx.o -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_85446
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_85446.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_85446.dir/feature_tests.cxx.o  -o cmTC_85446 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ca7d1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ca7d1.dir/build.make CMakeFiles/cmTC_ca7d1.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ca7d1.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_ca7d1.dir/feature_tests.cxx.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_ca7d1
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ca7d1.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_ca7d1.dir/feature_tests.cxx.o  -o cmTC_ca7d1 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -488,17 +488,17 @@ make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacio
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f27a4/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f27a4.dir/build.make CMakeFiles/cmTC_f27a4.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f27a4.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_f27a4.dir/feature_tests.cxx.o -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_f27a4
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f27a4.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_f27a4.dir/feature_tests.cxx.o  -o cmTC_f27a4 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ac7ce/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ac7ce.dir/build.make CMakeFiles/cmTC_ac7ce.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ac7ce.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_ac7ce.dir/feature_tests.cxx.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_ac7ce
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ac7ce.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_ac7ce.dir/feature_tests.cxx.o  -o cmTC_ac7ce 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -561,17 +561,17 @@ make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacio
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_be925/fast"
-/usr/bin/make -f CMakeFiles/cmTC_be925.dir/build.make CMakeFiles/cmTC_be925.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_be925.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_be925.dir/feature_tests.cxx.o -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_be925
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be925.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_be925.dir/feature_tests.cxx.o  -o cmTC_be925 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_d8c1b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d8c1b.dir/build.make CMakeFiles/cmTC_d8c1b.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d8c1b.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_d8c1b.dir/feature_tests.cxx.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_d8c1b
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d8c1b.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_d8c1b.dir/feature_tests.cxx.o  -o cmTC_d8c1b 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -632,16 +632,16 @@ make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacio
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
 Determining if the include file pthread.h exists passed with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_aa856/fast"
-/usr/bin/make -f CMakeFiles/cmTC_aa856.dir/build.make CMakeFiles/cmTC_aa856.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_aa856.dir/CheckIncludeFile.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_aa856.dir/CheckIncludeFile.c.o   -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
-Linking C executable cmTC_aa856
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aa856.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_aa856.dir/CheckIncludeFile.c.o  -o cmTC_aa856 
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_c42f0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c42f0.dir/build.make CMakeFiles/cmTC_c42f0.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c42f0.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_c42f0.dir/CheckIncludeFile.c.o   -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_c42f0
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c42f0.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_c42f0.dir/CheckIncludeFile.c.o  -o cmTC_c42f0 
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 

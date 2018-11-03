@@ -59,10 +59,47 @@ RM = /snap/clion/44/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida"
+CMAKE_SOURCE_DIR = /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"
+CMAKE_BINARY_DIR = /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug
+
+#=============================================================================
+# Target rules for target CMakeFiles/juegoDeLaVida.dir
+
+# All Build rule for target.
+CMakeFiles/juegoDeLaVida.dir/all:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/depend
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=12,13,14,15,16 "Built target juegoDeLaVida"
+.PHONY : CMakeFiles/juegoDeLaVida.dir/all
+
+# Include target in all.
+all: CMakeFiles/juegoDeLaVida.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/juegoDeLaVida.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 5
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/juegoDeLaVida.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/juegoDeLaVida.dir/rule
+
+# Convenience name for target.
+juegoDeLaVida: CMakeFiles/juegoDeLaVida.dir/rule
+
+.PHONY : juegoDeLaVida
+
+# clean rule for target.
+CMakeFiles/juegoDeLaVida.dir/clean:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/clean
+.PHONY : CMakeFiles/juegoDeLaVida.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/juegoDeLaVida.dir/clean
+
+.PHONY : clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/juegoDeLaVidaTest.dir
@@ -72,7 +109,7 @@ CMakeFiles/juegoDeLaVidaTest.dir/all: lib/googletest-master/googlemock/gtest/CMa
 CMakeFiles/juegoDeLaVidaTest.dir/all: lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) -f CMakeFiles/juegoDeLaVidaTest.dir/build.make CMakeFiles/juegoDeLaVidaTest.dir/depend
 	$(MAKE) -f CMakeFiles/juegoDeLaVidaTest.dir/build.make CMakeFiles/juegoDeLaVidaTest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" --progress-num=12,13,14,15,16,17,18,19,20,21,22,23,24,25,26 "Built target juegoDeLaVidaTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 "Built target juegoDeLaVidaTest"
 .PHONY : CMakeFiles/juegoDeLaVidaTest.dir/all
 
 # Include target in all.
@@ -82,9 +119,9 @@ all: CMakeFiles/juegoDeLaVidaTest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/juegoDeLaVidaTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 19
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 19
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/juegoDeLaVidaTest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/juegoDeLaVidaTest.dir/rule
 
 # Convenience name for target.
@@ -149,7 +186,7 @@ lib/googletest-master/googlemock/preinstall: lib/googletest-master/googlemock/gt
 lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/all:
 	$(MAKE) -f lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/build.make lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/depend
 	$(MAKE) -f lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/build.make lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" --progress-num=4,5,6,7 "Built target gmock_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=4,5,6,7 "Built target gmock_main"
 .PHONY : lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Include target in all.
@@ -159,9 +196,9 @@ all: lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Build rule for subdir invocation for target.
 lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 0
 .PHONY : lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/rule
 
 # Convenience name for target.
@@ -186,7 +223,7 @@ clean: lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/clean
 lib/googletest-master/googlemock/CMakeFiles/gmock.dir/all:
 	$(MAKE) -f lib/googletest-master/googlemock/CMakeFiles/gmock.dir/build.make lib/googletest-master/googlemock/CMakeFiles/gmock.dir/depend
 	$(MAKE) -f lib/googletest-master/googlemock/CMakeFiles/gmock.dir/build.make lib/googletest-master/googlemock/CMakeFiles/gmock.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" --progress-num=1,2,3 "Built target gmock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target gmock"
 .PHONY : lib/googletest-master/googlemock/CMakeFiles/gmock.dir/all
 
 # Include target in all.
@@ -196,9 +233,9 @@ all: lib/googletest-master/googlemock/CMakeFiles/gmock.dir/all
 
 # Build rule for subdir invocation for target.
 lib/googletest-master/googlemock/CMakeFiles/gmock.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 lib/googletest-master/googlemock/CMakeFiles/gmock.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 0
 .PHONY : lib/googletest-master/googlemock/CMakeFiles/gmock.dir/rule
 
 # Convenience name for target.
@@ -243,7 +280,7 @@ lib/googletest-master/googlemock/gtest/preinstall:
 lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/all: lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/depend
 	$(MAKE) -f lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" --progress-num=10,11 "Built target gtest_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=10,11 "Built target gtest_main"
 .PHONY : lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/all
 
 # Include target in all.
@@ -253,9 +290,9 @@ all: lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
 lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 0
 .PHONY : lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/rule
 
 # Convenience name for target.
@@ -280,7 +317,7 @@ clean: lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/clean
 lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/all:
 	$(MAKE) -f lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/build.make lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/depend
 	$(MAKE) -f lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/build.make lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" --progress-num=8,9 "Built target gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=8,9 "Built target gtest"
 .PHONY : lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/all
 
 # Include target in all.
@@ -290,9 +327,9 @@ all: lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/all
 
 # Build rule for subdir invocation for target.
 lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 0
 .PHONY : lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/rule
 
 # Convenience name for target.

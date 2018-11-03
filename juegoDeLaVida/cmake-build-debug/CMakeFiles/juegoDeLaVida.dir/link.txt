@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o CMakeFiles/juegoDeLaVida.dir/solucion.o CMakeFiles/juegoDeLaVida.dir/es.o CMakeFiles/juegoDeLaVida.dir/maxiopt.o  -o ../juegoDeLaVida /usr/lib/x86_64-linux-gnu/libSDL2.so 

@@ -1,10 +1,30 @@
 #include "solucion.h"
 
-/********************************** EJERCICIO esValido **********************************/
-bool esValido(toroide t){
-    return true;
+/******************************* FUNCIONES AUXILIARES ***********************/
+
+bool toroideNoVacio(toroide t){
+    return t.size()!=0 && (t[0]).size()!=0;
 }
 
+bool matrizValida(toroide t){
+    int i=0;
+    int res= true;
+    while(i<t.size()){
+        if(t[0].size() != t[i].size()){
+            res= false;
+            break;
+        } else {
+            i++;
+        }
+    }
+    return res;
+}
+
+
+/********************************** EJERCICIO esValido **********************************/
+bool esValido(toroide t){
+    return (toroideNoVacio(t) && matrizValida(t));
+}
 /****************************** EJERCICIO posicionesVivas *******************************/
 vector<posicion> posicionesVivas(toroide t){
     vector<posicion> res;

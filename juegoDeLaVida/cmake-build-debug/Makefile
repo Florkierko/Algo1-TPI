@@ -48,10 +48,10 @@ RM = /snap/clion/44/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida"
+CMAKE_SOURCE_DIR = /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug"
+CMAKE_BINARY_DIR = /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,28 +80,6 @@ install/local/fast: preinstall/fast
 	/snap/clion/44/bin/cmake/linux/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
 .PHONY : install/local/fast
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/snap/clion/44/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-
-.PHONY : edit_cache/fast
-
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/snap/clion/44/bin/cmake/linux/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target install
 install: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
@@ -124,11 +102,33 @@ list_install_components/fast: list_install_components
 
 .PHONY : list_install_components/fast
 
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	/snap/clion/44/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+
+.PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/snap/clion/44/bin/cmake/linux/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
+
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -155,6 +155,19 @@ preinstall/fast:
 depend:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
+
+#=============================================================================
+# Target rules for targets named juegoDeLaVida
+
+# Build rule for target.
+juegoDeLaVida: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 juegoDeLaVida
+.PHONY : juegoDeLaVida
+
+# fast build rule for target.
+juegoDeLaVida/fast:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/build
+.PHONY : juegoDeLaVida/fast
 
 #=============================================================================
 # Target rules for targets named juegoDeLaVidaTest
@@ -222,6 +235,36 @@ gtest/fast:
 .PHONY : gtest/fast
 
 # target to build an object file
+es.o:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/es.o
+.PHONY : es.o
+
+# target to preprocess a source file
+es.i:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/es.i
+.PHONY : es.i
+
+# target to generate assembly for a file
+es.s:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/es.s
+.PHONY : es.s
+
+# target to build an object file
+juegoDeLaVida.o:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o
+.PHONY : juegoDeLaVida.o
+
+# target to preprocess a source file
+juegoDeLaVida.i:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.i
+.PHONY : juegoDeLaVida.i
+
+# target to generate assembly for a file
+juegoDeLaVida.s:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.s
+.PHONY : juegoDeLaVida.s
+
+# target to build an object file
 main.o:
 	$(MAKE) -f CMakeFiles/juegoDeLaVidaTest.dir/build.make CMakeFiles/juegoDeLaVidaTest.dir/main.o
 .PHONY : main.o
@@ -237,17 +280,35 @@ main.s:
 .PHONY : main.s
 
 # target to build an object file
+maxiopt.o:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/maxiopt.o
+.PHONY : maxiopt.o
+
+# target to preprocess a source file
+maxiopt.i:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/maxiopt.i
+.PHONY : maxiopt.i
+
+# target to generate assembly for a file
+maxiopt.s:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/maxiopt.s
+.PHONY : maxiopt.s
+
+# target to build an object file
 solucion.o:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/solucion.o
 	$(MAKE) -f CMakeFiles/juegoDeLaVidaTest.dir/build.make CMakeFiles/juegoDeLaVidaTest.dir/solucion.o
 .PHONY : solucion.o
 
 # target to preprocess a source file
 solucion.i:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/solucion.i
 	$(MAKE) -f CMakeFiles/juegoDeLaVidaTest.dir/build.make CMakeFiles/juegoDeLaVidaTest.dir/solucion.i
 .PHONY : solucion.i
 
 # target to generate assembly for a file
 solucion.s:
+	$(MAKE) -f CMakeFiles/juegoDeLaVida.dir/build.make CMakeFiles/juegoDeLaVida.dir/solucion.s
 	$(MAKE) -f CMakeFiles/juegoDeLaVidaTest.dir/build.make CMakeFiles/juegoDeLaVidaTest.dir/solucion.s
 .PHONY : solucion.s
 
@@ -439,18 +500,28 @@ help:
 	@echo "... depend"
 	@echo "... install/strip"
 	@echo "... install/local"
+	@echo "... install"
+	@echo "... list_install_components"
+	@echo "... juegoDeLaVida"
 	@echo "... juegoDeLaVidaTest"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... install"
-	@echo "... list_install_components"
 	@echo "... gmock_main"
 	@echo "... gmock"
 	@echo "... gtest_main"
 	@echo "... gtest"
+	@echo "... es.o"
+	@echo "... es.i"
+	@echo "... es.s"
+	@echo "... juegoDeLaVida.o"
+	@echo "... juegoDeLaVida.i"
+	@echo "... juegoDeLaVida.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... maxiopt.o"
+	@echo "... maxiopt.i"
+	@echo "... maxiopt.s"
 	@echo "... solucion.o"
 	@echo "... solucion.i"
 	@echo "... solucion.s"

@@ -1,24 +1,24 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_60209/fast"
-/usr/bin/make -f CMakeFiles/cmTC_60209.dir/build.make CMakeFiles/cmTC_60209.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_60209.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_60209.dir/CheckSymbolExists.c.o   -c "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c"
-Linking C executable cmTC_60209
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_60209.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_60209.dir/CheckSymbolExists.c.o  -o cmTC_60209 
-CMakeFiles/cmTC_60209.dir/CheckSymbolExists.c.o: En la función `main':
+Run Build Command:"/usr/bin/make" "cmTC_89fe9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_89fe9.dir/build.make CMakeFiles/cmTC_89fe9.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_89fe9.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_89fe9.dir/CheckSymbolExists.c.o   -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_89fe9
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_89fe9.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_89fe9.dir/CheckSymbolExists.c.o  -o cmTC_89fe9 
+CMakeFiles/cmTC_89fe9.dir/CheckSymbolExists.c.o: En la función `main':
 CheckSymbolExists.c:(.text+0x1b): referencia a `pthread_create' sin definir
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_60209.dir/build.make:86: recipe for target 'cmTC_60209' failed
-make[1]: *** [cmTC_60209] Error 1
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Makefile:121: recipe for target 'cmTC_60209/fast' failed
-make: *** [cmTC_60209/fast] Error 2
+CMakeFiles/cmTC_89fe9.dir/build.make:86: recipe for target 'cmTC_89fe9' failed
+make[1]: *** [cmTC_89fe9] Error 1
+make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_89fe9/fast' failed
+make: *** [cmTC_89fe9/fast] Error 2
 
-File /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 

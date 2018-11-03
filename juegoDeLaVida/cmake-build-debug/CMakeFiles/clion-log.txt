@@ -1,4 +1,4 @@
-/snap/clion/44/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida"
+/snap/clion/44/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida
 -- The C compiler identification is GNU 7.3.0
 -- The CXX compiler identification is GNU 7.3.0
 -- Check for working C compiler: /usr/bin/cc
@@ -13,7 +13,7 @@
 -- Detecting CXX compiler ABI info - done
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Could NOT find SDL2 (missing: SDL2_LIBRARY SDL2_INCLUDE_DIR) 
+-- Found SDL2: /usr/lib/x86_64-linux-gnu/libSDL2.so  
 -- Found PythonInterp: /usr/bin/python (found version "2.7.15") 
 -- Looking for pthread.h
 -- Looking for pthread.h - found
@@ -24,4 +24,4 @@
 -- Found Threads: TRUE  
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug
+-- Build files have been written to: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug

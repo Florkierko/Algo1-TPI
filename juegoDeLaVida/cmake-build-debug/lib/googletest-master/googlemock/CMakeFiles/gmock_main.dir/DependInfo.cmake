@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/src/gtest-all.cc" "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o"
-  "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/src/gmock-all.cc" "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o"
-  "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/src/gmock_main.cc" "/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+  "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/src/gtest-all.cc" "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o"
+  "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/src/gmock-all.cc" "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.o"
+  "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/src/gmock_main.cc" "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,5 +6,5 @@ CXX_FLAGS = -g    -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=1 -fexceptions -Wex
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include" -I"/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googlemock" -I"/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include" -I"/home/martina/Escritorio/Algo1/TP Implementacion/juegoDeLaVida/lib/googletest-master/googletest" 
+CXX_INCLUDES = -I/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock/include -I/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googlemock -I/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include -I/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest 
 
