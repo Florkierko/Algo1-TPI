@@ -1,6 +1,9 @@
 #include "solucion.h"
 
 /******************************* FUNCIONES AUXILIARES ***********************/
+int mod (int a, int b) {
+    return a>=0 ? a % b : (b-abs(a%b))%b;
+}
 
 bool toroideNoVacio(toroide t){
     bool noEsVacio = t.size()!=0 && t[0].size()!=0;
@@ -36,30 +39,19 @@ int superficieTotal(toroide t){
     return superf;
 }
 
-posicion modulo(toroide t, posicion p){
-    posicion v;
-    int v0 = get<0>(p) % t.size();
-    int v1 = get<1>(p) % t[0].size();
-    v = (make_tuple(v0, v1));
-    return v;
-}
 
 int vecinosVivos(toroide t, posicion p){
-    int i = -1;
-    int j= -1;
-    int res= 0;
-    while (i <2){
-        while (j<2){
-            if (estado(t, (get<0>(p) + i ) % t.size(), (get<1>(p) +j) % t[0].size())) {
+    int res = 0;
+    for (int i = -1; i <= 1; i++) {
+        for (int j = -1; j <= 1 ; j++) {
+            if (estado(t, mod( get<0>(p) + i, t.size()), mod(get<1>(p) + j, t[0].size()))) {
                 res++;
             }
-            j++;
-          }
-        j=-1;
-        i++;
+        }
     }
+
     if (estado(t,get<0>(p), get<1>(p))) {
-        res= res-1;
+        res = res-1;
     }
     return res;
 }
@@ -69,7 +61,7 @@ toroide traslado(toroide t, int i, int j){
     toroide tTrasladado=t;
     for (int k = 0; k < t.size(); ++k) {
         for (int l = 0; l < t.size(); ++l) {
-            tTrasladado[k][l] = t[(k+i) % t.size()][(l+j) % t[0].size()];
+            tTrasladado[k][l] = t[mod (k+i,t.size())][mod(l+j,t[0].size())];
         }
 
     }
@@ -110,7 +102,7 @@ float densidadPoblacion(toroide t){
 bool evolucionDePosicion(toroide t, posicion p){
     bool res;
     if (estado(t, get<0>(p),get<1>(p))) {
-        res = vecinosVivos(t,p) == 2 || vecinosVivos(t,p) == 3;
+        res = (vecinosVivos(t,p) == 2) or (vecinosVivos(t,p) == 3);
     } else {
         res= vecinosVivos(t,p) == 3;
     }
@@ -130,7 +122,7 @@ void evolucionToroide(toroide& t){
 /***************************** EJERCICIO evolucionMultiple ******************************/
 toroide evolucionMultiple(toroide t, int k){
     toroide result = t;
-    for (int i = 0; i <= k ; i++) {
+    for (int i = 0; i < k ; i++) {
         evolucionToroide(result);
     }
     return result;
