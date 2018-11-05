@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+vector
+-
+tuple
+-
+cmath
+-
+
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.cpp
+solucion.h
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+definiciones.h
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+

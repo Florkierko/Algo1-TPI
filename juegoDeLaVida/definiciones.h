@@ -10,5 +10,4 @@ using namespace std;
 // DEFINICIONES DE TIPO
 typedef vector< vector<bool> > toroide;
 typedef tuple<int,int> posicion;
-
 #endif //JUEGODELAVIDA_DEFINICIONES_H

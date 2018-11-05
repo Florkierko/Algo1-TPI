@@ -2,6 +2,8 @@
 #define JUEGODELAVIDA_SOLUCION_H
 #include "definiciones.h"
 
+using namespace std;
+
 bool esValido(toroide t);
 vector<posicion> posicionesVivas(toroide t);
 float densidadPoblacion(toroide t);
