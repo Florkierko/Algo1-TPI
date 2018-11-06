@@ -384,6 +384,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/auxiliares.h">
+			<Option target="juegoDeLaVida"/>
+		</Unit>
 		<Unit filename="/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h">
 			<Option target="juegoDeLaVida"/>
 			<Option target="juegoDeLaVidaTest"/>

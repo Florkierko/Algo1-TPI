@@ -18,7 +18,7 @@ set_target_properties(juegoDeLaVidaTest PROPERTIES LINK_FLAGS "-g --coverage")
 target_link_libraries(juegoDeLaVidaTest gtest gtest_main)
 
 if(SDL2_FOUND)
-	set(SOURCE_FILES_GUI juegoDeLaVida.cpp solucion.h solucion.cpp definiciones.h es.h es.cpp maxiopt.h maxiopt.cpp)
+	set(SOURCE_FILES_GUI juegoDeLaVida.cpp solucion.h solucion.cpp definiciones.h es.h es.cpp maxiopt.h maxiopt.cpp auxiliares.h)
 	add_executable(juegoDeLaVida ${SOURCE_FILES_GUI})
 
 	set_target_properties(juegoDeLaVida PROPERTIES COMPILE_FLAGS "-O3")
