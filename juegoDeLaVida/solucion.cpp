@@ -66,14 +66,25 @@ toroide evolucionMultiple(toroide t, int k){
 /******************************** EJERCICIO esPeriodico *********************************/
 
 bool esPeriodico(toroide t, int& p){
-    return false;
+    bool res = false;
+    vector<toroide> list = evolucionHastaPeriodo(t);
+    if (seRepiteElPrimero(list)) {
+        res = true;
+        p = periodicidad(list);
+    }
+  return res;
 }
+
 
 /******************************* EJERCICIO primosLejanos ********************************/
 
 bool primosLejanos(toroide t1, toroide t2) {
-    return false;
+    bool res;
+    vector<toroide> vt = evolucionHastaPeriodo (t1);
+    res = estaEnLista (vt,t2);
+    return res;
 }
+
 
 /****************************** EJERCICIO seleccionNatural ******************************/
 

@@ -89,6 +89,114 @@ toroide traslado(toroide t, int i, int j){
     return tTrasladado;
 }
 
+bool hayRepetidos (vector<toroide> vt) {
+    bool res = false ;
+    int i = 0 ;
+    for (int i = 0; i < vt.size(); i++) {
+        for (int j = i+1 ; j < vt.size(); j++) {
+            if (vt[i] == vt[j]) {
+                res=true;
+                break;
+            }
+        }
+    }
+    return res;
+}
+
+
+
+vector<toroide> evolucionHastaPeriodo (toroide t) {
+    vector<toroide> lista;
+    lista.push_back(t);
+    int cont = 0;
+    while (not(hayRepetidos(lista))) {
+        toroide tb = lista[cont];
+        evolucionToroide(tb);
+        lista.push_back(tb);
+        cont++;
+    }
+    return lista;
+}
+
+
+bool seRepiteElPrimero (vector<toroide> vt) {
+    toroide t = vt[0];
+    bool res = false;
+    int i = 1; //para que no se fije en el elemento en la pos 0
+    while (i < vt.size()) {
+        if (vt[i] == t) {
+            res = true;
+            break;
+        } else {
+            i++;
+        }
+    }
+    return res;
+}
+
+
+
+int periodicidad (vector<toroide> vt) {
+    int i = 1;
+    while (i < vt.size()) {
+        if (vt[i] == vt[0]) {
+            return i;
+        } else {
+            i++;
+        }
+    }
+}
+
+bool estaEnLista(vector<toroide> vt, toroide t2) {
+    bool res = false;
+    int i = 0;
+    while (i<vt.size()) {
+        if (vt[i] == t2) {
+            res = true;
+
+        } else {
+            i++;
+        }
+    }
+    return res;
+}
+
+bool muerto(toroide t) {
+    bool res = cantidadDeVivas(t) == 0;
+    return res;
+}
+
+
+bool todosMuertosMenosUno(vector<toroide> vt) {
+    int vivos = 0;
+    for (int i = 0; i < vt.size(); ++i) {
+        if (not(muerto(vt[i]))) {
+            vivos++;
+        }
+
+    }
+
+    bool res = vivos == 1;
+    return res;
+}
+
+void evolucionDeSeq(vector<toroide>& vt) {
+
+    for (int i = 0; i < vt.size(); i++) {
+
+        evolucionToroide(vt[i]);
+    }
+}
+
+
+void evolucionHastaUltimoVivo(vector<toroide>& vt) {
+
+    if (not(todosMuertosMenosUno(vt))) {
+
+        evolucionDeSeq(vt);
+    }
+}
+
 
 
 
