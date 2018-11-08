@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="8" />
-    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
-  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
       <config projectName="juegoDeLaVida" targetName="juegoDeLaVidaTest" />
@@ -20,48 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd924494-5372-436f-92fd-78273df6b4a6" name="Default Changelist" comment="Merge branch 'master' of https://github.com/Marti-lp/Algo1-TPI&#10;&#10;# Conflicts:&#10;#&#9;juegoDeLaVida/tests/soloBloquesTEST.cpp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/solucion.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/solucion.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/solucion.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/solucion.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/densidadPoblacionTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/densidadPoblacionTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/densidadPoblacionTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/enCrecimientoTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/enCrecimientoTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/enCrecimientoTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/esPeriodicoTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/esPeriodicoTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/esPeriodicoTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/esValidoTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/esValidoTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/esValidoTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionDePosicionTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionDePosicionTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionDePosicionTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionMultipleTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionMultipleTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionMultipleTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionToroideTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionToroideTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionToroideTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/fusionarTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/fusionarTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/fusionarTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/posicionesVivasTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/posicionesVivasTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/posicionesVivasTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/primosLejanosTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/primosLejanosTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/primosLejanosTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/seleccionNaturalTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/seleccionNaturalTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/seleccionNaturalTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/vistaTrasladadaTEST.gcno" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/vistaTrasladadaTEST.gcno" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/juegoDeLaVidaTest.dir/tests/vistaTrasladadaTEST.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/googletest-master/googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtest_maind.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtestd.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/juegoDeLaVida" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/juegoDeLaVidaTest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solucion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/solucion.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solucion.h" beforeDir="false" afterPath="$PROJECT_DIR$/solucion.h" afterDir="false" />
-    </list>
+    <list default="true" id="0d7f3c78-5593-43b8-854a-f1ebd6b17077" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/lib/googletest-master/googlemock/CMakeFiles/" />
     <ignored path="$PROJECT_DIR$/lib/googletest-master/CMakeFiles/" />
@@ -87,134 +42,65 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
-    <session id="1911983450">
+    <session id="801087442">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="5" />
-          <entry key="h" value="4" />
+          <entry key="cpp" value="1" />
+          <entry key="h" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ObjectiveC" value="9" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1551783830">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="5" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="ObjectiveC" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="3053" />
-          <entry key="h" value="355" />
+          <entry key="cpp" value="302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Doxygen file" value="5" />
-          <entry key="ObjectiveC" value="3403" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cc" value="2" />
-          <entry key="cpp" value="3" />
-          <entry key="h" value="9" />
-          <entry key="tuple" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="ObjectiveC" value="15" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.cidr.testingFrameworks.usages">
-        <counts>
-          <entry key="Google Test" value="6" />
+          <entry key="ObjectiveC" value="302" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solucion.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solucion.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="197" column="1" lean-forward="true" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+            <state relative-caret-position="217">
+              <caret line="257" column="29" lean-forward="true" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/definiciones.h">
+        <entry file="file://$PROJECT_DIR$/solucion.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>ev</find>
-      <find>veci</find>
-      <find>VivoVecinosAbajoALaDerecha</find>
-      <find>%</find>
-      <find>evolucionM</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/definiciones.h" />
-        <option value="$PROJECT_DIR$/tests/evolucionDePosicionTEST.cpp" />
         <option value="$PROJECT_DIR$/solucion.cpp" />
-        <option value="$PROJECT_DIR$/solucion.h" />
       </list>
     </option>
   </component>
@@ -224,18 +110,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
-    <option name="y" value="66" />
-    <option name="width" value="1160" />
-    <option name="height" value="741" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="128" />
+    <option name="y" value="153" />
+    <option name="width" value="1150" />
+    <option name="height" value="322" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,33 +129,18 @@
               <item name="juegoDeLaVida" type="b2602c69:ProjectViewProjectNode" />
               <item name="juegoDeLaVida" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="juegoDeLaVida" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juegoDeLaVida" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juegoDeLaVida" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juegoDeLaVida" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="juegoDeLaVida" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Algo1/TP_Implementacion/juegoDeLaVida" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -283,13 +154,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Build All">
-    <configuration name="evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="juegoDeLaVida" TARGET_NAME="juegoDeLaVidaTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="juegoDeLaVida" RUN_TARGET_NAME="juegoDeLaVidaTest" TEST_CLASS="evolucionDePosicionTEST" TEST_METHOD="VivoVecinosAbajoALaDerecha" TEST_MODE="SUITE_TEST">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="juegoDeLaVida" RUN_TARGET_NAME="juegoDeLaVida" EXPLICIT_BUILD_TARGET_NAME="all">
+  <component name="RunManager" selected="Application.juegoDeLaVidaTest">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -326,67 +192,34 @@
     </configuration>
     <list>
       <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.juegoDeLaVida" />
       <item itemvalue="Application.juegoDeLaVidaTest" />
       <item itemvalue="Application.gmock" />
       <item itemvalue="Application.gmock_main" />
       <item itemvalue="Application.gtest" />
       <item itemvalue="Application.gtest_main" />
-      <item itemvalue="Application.juegoDeLaVida" />
-      <item itemvalue="Google Test.evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Google Test.evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fd924494-5372-436f-92fd-78273df6b4a6" name="Default Changelist" comment="" />
-      <created>1540852199688</created>
+      <changelist id="0d7f3c78-5593-43b8-854a-f1ebd6b17077" name="Default Changelist" comment="" />
+      <created>1541638240630</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540852199688</updated>
-      <workItem from="1540852201257" duration="816000" />
-      <workItem from="1541267167474" duration="60000" />
-      <workItem from="1541296251310" duration="18000" />
-      <workItem from="1541340102864" duration="39000" />
-      <workItem from="1541440865142" duration="7273000" />
-      <workItem from="1541449742089" duration="1516000" />
-      <workItem from="1541451279174" duration="18000" />
-      <workItem from="1541451940834" duration="2324000" />
-      <workItem from="1541454303594" duration="101000" />
-      <workItem from="1541454923376" duration="4770000" />
-      <workItem from="1541515211208" duration="7954000" />
-      <workItem from="1541621591731" duration="575000" />
+      <updated>1541638240630</updated>
+      <workItem from="1541638242031" duration="190000" />
+      <workItem from="1541638764193" duration="522000" />
+      <workItem from="1541639405116" duration="15000" />
+      <workItem from="1541639747554" duration="50000" />
+      <workItem from="1541639845923" duration="2914000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="evolucionDePosicionTEST_VivoVecinosAbajoALaDerecha - 2018.11.05 at 19h 32m 11s.xml">
-      <configuration name="evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="evolucionDePosicionTEST_VivoVecinosAbajoALaDerecha - 2018.11.05 at 19h 34m 14s.xml">
-      <configuration name="evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="evolucionDePosicionTEST_VivoVecinosAbajoALaDerecha - 2018.11.05 at 19h 35m 14s.xml">
-      <configuration name="evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="evolucionDePosicionTEST_VivoVecinosAbajoALaDerecha - 2018.11.05 at 19h 39m 02s.xml">
-      <configuration name="evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="evolucionDePosicionTEST_VivoVecinosAbajoALaDerecha - 2018.11.05 at 19h 39m 07s.xml">
-      <configuration name="evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="evolucionDePosicionTEST_VivoVecinosAbajoALaDerecha - 2018.11.05 at 19h 53m 51s.xml">
-      <configuration name="evolucionDePosicionTEST.VivoVecinosAbajoALaDerecha" configurationId="CMakeGoogleTestRunConfigurationType" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25464000" />
+    <option name="totallyTimeSpent" value="3691000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -398,29 +231,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="66" width="1160" height="741" extended-state="0" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info anchor="top" id="Database" order="0" side_tool="true" weight="0.3220339" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988764" visible="true" weight="0.36763412" />
-      <window_info id="Structure" order="1" sideWeight="0.5011236" side_tool="true" weight="0.36783043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26815644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32993197" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.24319728" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37194127" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11707317" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.57295376" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3282313" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3282313" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039905" side_tool="true" weight="0.51549757" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3282313" />
-      <window_info anchor="bottom" id="CMake" order="11" weight="0.3282313" />
-      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.25170067" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32520324" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32971016" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,111 +262,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/juegoDeLaVida.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/es.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maxiopt.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maxiopt.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///usr/include/c++/7/bits/stl_bvector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12450">
-          <caret line="830" selection-start-line="830" selection-end-line="830" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/googletest-master/googletest/include/gtest/gtest.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4140">
-          <caret line="276" selection-start-line="276" selection-end-line="276" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/c++/7/tuple">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19710">
-          <caret line="1314" selection-start-line="1314" selection-end-line="1314" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/evolucionDePosicionTEST.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/c++/7/bits/stl_vector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="797" selection-start-line="797" selection-end-line="797" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/googletest-master/googletest/src/gtest.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="2458" selection-start-line="2458" selection-end-line="2458" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/evolucionMultipleTEST.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solucion.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/definiciones.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auxiliares.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="217">
+          <caret line="257" column="29" lean-forward="true" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solucion.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="197" column="1" lean-forward="true" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>

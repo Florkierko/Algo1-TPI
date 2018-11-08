@@ -1,4 +1,4 @@
-# Install script for directory: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest
+# Install script for directory: /home/martina/Escritorio/TPI/juegoDeLaVida/lib/googletest-master/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,21 +38,21 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtestd.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/martina/Escritorio/TPI/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtestd.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtest_maind.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/home/martina/Escritorio/TPI/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest/libgtest_maind.a")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include/gtest")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/home/martina/Escritorio/TPI/juegoDeLaVida/lib/googletest-master/googletest/include/gtest")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES
-    "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/gtest.pc"
-    "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/gtest_main.pc"
+    "/home/martina/Escritorio/TPI/juegoDeLaVida/cmake-build-debug/gtest.pc"
+    "/home/martina/Escritorio/TPI/juegoDeLaVida/cmake-build-debug/gtest_main.pc"
     )
 endif()
 
