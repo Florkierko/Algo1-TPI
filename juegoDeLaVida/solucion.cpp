@@ -17,9 +17,10 @@ bool matrizValida(toroide t){
     while(i<t.size()){
         if(t[0].size() != t[i].size()){
             res = false;
-            i++;
         }
+    i++;
     }
+
     return res;
 }
 
@@ -68,8 +69,7 @@ toroide traslado(toroide t, int i, int j){
 }
 
 bool hayRepetidos (vector<toroide> vt) {
-    bool res = false ;
-    int i = 0 ;
+    bool res = false;
     for (int i = 0; i < vt.size(); i++) {
         for (int j = i+1 ; j < vt.size(); j++) {
             if (vt[i] == vt[j]) {
@@ -103,9 +103,8 @@ bool seRepiteElPrimero (vector<toroide> vt) {
     while (i < vt.size()) {
         if (vt[i] == t) {
             res = true;
-        } else {
-            i++;
         }
+        i++;
     }
     return res;
 }

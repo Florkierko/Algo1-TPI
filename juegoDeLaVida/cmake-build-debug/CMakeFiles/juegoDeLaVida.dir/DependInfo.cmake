@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/martina/Escritorio/TPI/juegoDeLaVida/es.cpp" "/home/martina/Escritorio/TPI/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/es.o"
-  "/home/martina/Escritorio/TPI/juegoDeLaVida/juegoDeLaVida.cpp" "/home/martina/Escritorio/TPI/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o"
-  "/home/martina/Escritorio/TPI/juegoDeLaVida/maxiopt.cpp" "/home/martina/Escritorio/TPI/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/maxiopt.o"
-  "/home/martina/Escritorio/TPI/juegoDeLaVida/solucion.cpp" "/home/martina/Escritorio/TPI/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/solucion.o"
+  "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/es.cpp" "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/es.o"
+  "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVida.cpp" "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o"
+  "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/maxiopt.cpp" "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/maxiopt.o"
+  "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.cpp" "/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/solucion.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

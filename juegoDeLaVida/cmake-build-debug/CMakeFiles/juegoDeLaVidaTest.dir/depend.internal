@@ -24,11 +24,11 @@ CMakeFiles/juegoDeLaVidaTest.dir/main.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/main.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/main.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/solucion.o
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.cpp
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
 CMakeFiles/juegoDeLaVidaTest.dir/tests/densidadPoblacionTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -52,9 +52,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/densidadPoblacionTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/densidadPoblacionTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/densidadPoblacionTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/enCrecimientoTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -78,9 +78,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/enCrecimientoTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/enCrecimientoTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/enCrecimientoTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/esPeriodicoTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -104,9 +104,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/esPeriodicoTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/esPeriodicoTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/esPeriodicoTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/esValidoTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -130,9 +130,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/esValidoTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/esValidoTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/esValidoTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionDePosicionTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -156,9 +156,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionDePosicionTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/evolucionDePosicionTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/evolucionDePosicionTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionMultipleTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -182,9 +182,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionMultipleTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/evolucionMultipleTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/evolucionMultipleTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionToroideTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -208,9 +208,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/evolucionToroideTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/evolucionToroideTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/evolucionToroideTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/fusionarTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -234,9 +234,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/fusionarTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/fusionarTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/fusionarTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/posicionesVivasTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -260,9 +260,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/posicionesVivasTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/posicionesVivasTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/posicionesVivasTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/primosLejanosTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -286,9 +286,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/primosLejanosTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/primosLejanosTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/primosLejanosTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/seleccionNaturalTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -312,9 +312,9 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/seleccionNaturalTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/seleccionNaturalTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/seleccionNaturalTEST.cpp
 CMakeFiles/juegoDeLaVidaTest.dir/tests/vistaTrasladadaTEST.o
  ../lib/googletest-master/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest-master/googletest/include/gtest/gtest-message.h
@@ -338,6 +338,6 @@ CMakeFiles/juegoDeLaVidaTest.dir/tests/vistaTrasladadaTEST.o
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest-master/googletest/include/gtest/internal/gtest-type-util.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
- /home/martina/Escritorio/TPI/juegoDeLaVida/tests/vistaTrasladadaTEST.cpp
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
+ /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/tests/vistaTrasladadaTEST.cpp

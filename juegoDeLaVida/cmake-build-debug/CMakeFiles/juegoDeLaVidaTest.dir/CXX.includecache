@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
 vector
 -
 tuple
@@ -14,11 +14,11 @@ tuple
 cmath
 -
 
-/home/martina/Escritorio/TPI/juegoDeLaVida/solucion.cpp
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.cpp
 solucion.h
-/home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
 
-/home/martina/Escritorio/TPI/juegoDeLaVida/solucion.h
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.h
 definiciones.h
-/home/martina/Escritorio/TPI/juegoDeLaVida/definiciones.h
+/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/definiciones.h
 

@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -O3 -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/martina/Escritorio/TPI/juegoDeLaVida/lib/googletest-master/googletest/include -I/usr/include/SDL2 
+CXX_INCLUDES = -I/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include -I/usr/include/SDL2 
 
