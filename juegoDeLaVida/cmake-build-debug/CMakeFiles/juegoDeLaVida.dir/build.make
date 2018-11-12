@@ -43,10 +43,10 @@ RM = /snap/clion/44/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida
+CMAKE_SOURCE_DIR = /home/martina/Escritorio/juegoDeLaVida
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug
+CMAKE_BINARY_DIR = /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/juegoDeLaVida.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/juegoDeLaVida.dir/flags.make
 
 CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o: CMakeFiles/juegoDeLaVida.dir/flags.make
 CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o: ../juegoDeLaVida.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVida.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.o -c /home/martina/Escritorio/juegoDeLaVida/juegoDeLaVida.cpp
 
 CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVida.cpp > CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/martina/Escritorio/juegoDeLaVida/juegoDeLaVida.cpp > CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.i
 
 CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/juegoDeLaVida.cpp -o CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/martina/Escritorio/juegoDeLaVida/juegoDeLaVida.cpp -o CMakeFiles/juegoDeLaVida.dir/juegoDeLaVida.s
 
 CMakeFiles/juegoDeLaVida.dir/solucion.o: CMakeFiles/juegoDeLaVida.dir/flags.make
 CMakeFiles/juegoDeLaVida.dir/solucion.o: ../solucion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/juegoDeLaVida.dir/solucion.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/juegoDeLaVida.dir/solucion.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/juegoDeLaVida.dir/solucion.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/juegoDeLaVida.dir/solucion.o -c /home/martina/Escritorio/juegoDeLaVida/solucion.cpp
 
 CMakeFiles/juegoDeLaVida.dir/solucion.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/juegoDeLaVida.dir/solucion.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.cpp > CMakeFiles/juegoDeLaVida.dir/solucion.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/martina/Escritorio/juegoDeLaVida/solucion.cpp > CMakeFiles/juegoDeLaVida.dir/solucion.i
 
 CMakeFiles/juegoDeLaVida.dir/solucion.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/juegoDeLaVida.dir/solucion.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/solucion.cpp -o CMakeFiles/juegoDeLaVida.dir/solucion.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/martina/Escritorio/juegoDeLaVida/solucion.cpp -o CMakeFiles/juegoDeLaVida.dir/solucion.s
 
 CMakeFiles/juegoDeLaVida.dir/es.o: CMakeFiles/juegoDeLaVida.dir/flags.make
 CMakeFiles/juegoDeLaVida.dir/es.o: ../es.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/juegoDeLaVida.dir/es.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/juegoDeLaVida.dir/es.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/es.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/juegoDeLaVida.dir/es.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/juegoDeLaVida.dir/es.o -c /home/martina/Escritorio/juegoDeLaVida/es.cpp
 
 CMakeFiles/juegoDeLaVida.dir/es.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/juegoDeLaVida.dir/es.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/es.cpp > CMakeFiles/juegoDeLaVida.dir/es.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/martina/Escritorio/juegoDeLaVida/es.cpp > CMakeFiles/juegoDeLaVida.dir/es.i
 
 CMakeFiles/juegoDeLaVida.dir/es.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/juegoDeLaVida.dir/es.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/es.cpp -o CMakeFiles/juegoDeLaVida.dir/es.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/martina/Escritorio/juegoDeLaVida/es.cpp -o CMakeFiles/juegoDeLaVida.dir/es.s
 
 CMakeFiles/juegoDeLaVida.dir/maxiopt.o: CMakeFiles/juegoDeLaVida.dir/flags.make
 CMakeFiles/juegoDeLaVida.dir/maxiopt.o: ../maxiopt.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/juegoDeLaVida.dir/maxiopt.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/juegoDeLaVida.dir/maxiopt.o -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/maxiopt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/juegoDeLaVida.dir/maxiopt.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/juegoDeLaVida.dir/maxiopt.o -c /home/martina/Escritorio/juegoDeLaVida/maxiopt.cpp
 
 CMakeFiles/juegoDeLaVida.dir/maxiopt.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/juegoDeLaVida.dir/maxiopt.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/maxiopt.cpp > CMakeFiles/juegoDeLaVida.dir/maxiopt.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/martina/Escritorio/juegoDeLaVida/maxiopt.cpp > CMakeFiles/juegoDeLaVida.dir/maxiopt.i
 
 CMakeFiles/juegoDeLaVida.dir/maxiopt.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/juegoDeLaVida.dir/maxiopt.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/maxiopt.cpp -o CMakeFiles/juegoDeLaVida.dir/maxiopt.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/martina/Escritorio/juegoDeLaVida/maxiopt.cpp -o CMakeFiles/juegoDeLaVida.dir/maxiopt.s
 
 # Object files for target juegoDeLaVida
 juegoDeLaVida_OBJECTS = \
@@ -126,7 +126,7 @@ juegoDeLaVida_EXTERNAL_OBJECTS =
 ../juegoDeLaVida: CMakeFiles/juegoDeLaVida.dir/build.make
 ../juegoDeLaVida: /usr/lib/x86_64-linux-gnu/libSDL2.so
 ../juegoDeLaVida: CMakeFiles/juegoDeLaVida.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../juegoDeLaVida"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ../juegoDeLaVida"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/juegoDeLaVida.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/juegoDeLaVida.dir/clean:
 .PHONY : CMakeFiles/juegoDeLaVida.dir/clean
 
 CMakeFiles/juegoDeLaVida.dir/depend:
-	cd /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/martina/Escritorio/juegoDeLaVida /home/martina/Escritorio/juegoDeLaVida /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles/juegoDeLaVida.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/juegoDeLaVida.dir/depend
 

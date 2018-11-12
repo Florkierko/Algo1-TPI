@@ -1,24 +1,24 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_96524/fast"
-/usr/bin/make -f CMakeFiles/cmTC_96524.dir/build.make CMakeFiles/cmTC_96524.dir/build
-make[1]: se entra en el directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_96524.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_96524.dir/CheckSymbolExists.c.o   -c /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_96524
-/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_96524.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_96524.dir/CheckSymbolExists.c.o  -o cmTC_96524 
-CMakeFiles/cmTC_96524.dir/CheckSymbolExists.c.o: En la función `main':
+Run Build Command:"/usr/bin/make" "cmTC_bd574/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bd574.dir/build.make CMakeFiles/cmTC_bd574.dir/build
+make[1]: se entra en el directorio '/home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bd574.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_bd574.dir/CheckSymbolExists.c.o   -c /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_bd574
+/snap/clion/44/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bd574.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_bd574.dir/CheckSymbolExists.c.o  -o cmTC_bd574 
+CMakeFiles/cmTC_bd574.dir/CheckSymbolExists.c.o: En la función `main':
 CheckSymbolExists.c:(.text+0x1b): referencia a `pthread_create' sin definir
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_96524.dir/build.make:86: recipe for target 'cmTC_96524' failed
-make[1]: *** [cmTC_96524] Error 1
-make[1]: se sale del directorio '/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
-Makefile:121: recipe for target 'cmTC_96524/fast' failed
-make: *** [cmTC_96524/fast] Error 2
+CMakeFiles/cmTC_bd574.dir/build.make:86: recipe for target 'cmTC_bd574' failed
+make[1]: *** [cmTC_bd574] Error 1
+make[1]: se sale del directorio '/home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_bd574/fast' failed
+make: *** [cmTC_bd574/fast] Error 2
 
-File /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 

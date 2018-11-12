@@ -1,4 +1,8 @@
 #include "solucion.h"
+#include <iostream>
+using namespace std;
+
+#include "solucion.h"
 
 //-----------------------------------------------FUNCIONES--AUXILIARES---------------------------------------------//
 

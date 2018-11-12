@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -g --coverage -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest/include 
+CXX_INCLUDES = -I/home/martina/Escritorio/juegoDeLaVida/lib/googletest-master/googletest/include 
 

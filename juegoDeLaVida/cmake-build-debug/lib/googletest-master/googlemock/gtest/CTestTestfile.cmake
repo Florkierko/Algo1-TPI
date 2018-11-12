@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/lib/googletest-master/googletest
-# Build directory: /home/martina/Escritorio/Algo1/TP_Implementacion/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest
+# Source directory: /home/martina/Escritorio/juegoDeLaVida/lib/googletest-master/googletest
+# Build directory: /home/martina/Escritorio/juegoDeLaVida/cmake-build-debug/lib/googletest-master/googlemock/gtest
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
